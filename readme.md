@@ -26,6 +26,14 @@ Following standard features of the WordPress Core will be manipulated or extende
 
 Do it the WordPress Way! 
 
+## Workflow
+
+This repository follows the Git Flow Workflow.
+
+## Continuous Deployment
+
+Commits to Master Branch will be deployed to the productive environment automaticly. Also commits to the Develop Branch will be deployed to the dev environment automaticly.
+
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com)

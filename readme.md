@@ -4,7 +4,7 @@ This is the custom WordPress plugin running on [tafel-ludwigshafen.de](https://t
 
 ## Description 
 
-This custom WordPress plugin provides additional features related to Tafel Ludwigshafen. In addition it manipulates and extends standard features of WordPress and 3rd party plugins. At least some operation functions are added.
+Talu is a custom WordPress plugin providing additional features related to Tafel Ludwigshafen. In addition it manipulates and extends WordPress standard or 3rd party features. At least some operation functions are added.
 
 ## Custom Post Types
 
@@ -32,7 +32,7 @@ This repository follows the Git Flow Workflow.
 
 ## Continuous Deployment
 
-Commits to Master Branch will be deployed to the productive environment automaticly. Also commits to the Develop Branch will be deployed to the dev environment automaticly.
+Commits to Master Branch will be deployed to the productive environment with GitHub Actions automaticly. Commits to the Develop Branch will be deployed to the staging environment with the same procedures.
 
 ## Built With
 

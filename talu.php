@@ -4,7 +4,7 @@
 Plugin Name:	talu
 Plugin URI:		https://github.com/foerderung-des-ehrenamts/talu
 Description:	Custom WordPress Features @ Tafel Ludwigshafen
-Version:		0.1
+Version:		0.2
 Author: 		Marco Hitschler
 Author URI: 	https://www.unmus.de/
 License:     	GPL3
@@ -24,6 +24,7 @@ if (!defined('ABSPATH'))
 
 require_once('talu_medienspiegel.php'); 
 require_once('talu_loop.php'); 
+require_once('talu_update.php'); 
 
 /**
  * Activate the plugin

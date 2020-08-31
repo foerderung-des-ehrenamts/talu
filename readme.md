@@ -17,6 +17,7 @@ Following custom post types are implemented.
 Following standard features of the WordPress Core will be manipulated or extended.
 
 * Loop
+* Updates
 
 ## Related Theme
 
@@ -44,9 +45,15 @@ This project is licensed under the GPL3 License.
 
 ## Changelog
 
-### 0.1
+### 0.2
 
 Release pending
+
+* Added: Auto Update for Core/Plugins/Themes
+
+### 0.1
+
+Released: 31.08.2020
 
 * Added: Custom Post Type Medienspiegel
 * Added: Loop Sort Custom Field Date

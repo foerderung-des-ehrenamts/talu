@@ -1,6 +1,6 @@
 # talu Custom Plugin
 
-This is the custom WordPress plugin running on [tafel-ludwigshafen.de](https://tafel-ludwigshafen.de/).
+This is the custom WordPress plugin formerly running on [tafel-ludwigshafen.de](https://tafel-ludwigshafen.de/).
 
 ## Description 
 
@@ -31,10 +31,6 @@ Do it the WordPress Way!
 
 This repository follows the Git Flow Workflow.
 
-## Continuous Deployment
-
-Commits to Master Branch will be deployed to the productive environment with GitHub Actions automaticly. Commits to the Develop Branch will be deployed to the staging environment with the same procedures.
-
 ## Built With
 
 * [Visual Studio Code](https://code.visualstudio.com)
@@ -47,7 +43,7 @@ This project is licensed under the GPL3 License.
 
 ### 0.2
 
-Release pending
+Released: 02.01.2023
 
 * Added: Auto Update for Core/Plugins/Themes
 
